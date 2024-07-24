@@ -1,3 +1,4 @@
+
 :root {
   --branco-principal: #ffffff;
   --cinza-secundario: #c0c0c0;
@@ -93,7 +94,7 @@ body{
 }
 
 .container__descricao {
-  padding: 2em
+  padding: 2em;
 }
 
 .dispositivos__lista {
